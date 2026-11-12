@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/joshprandall/one-qubit-two-outcomes/actions/workflows/test.yml/badge.svg)](https://github.com/joshprandall/one-qubit-two-outcomes/actions/workflows/test.yml)
 
-An interactive browser model for a restricted pure single-qubit state and computational-basis measurement.
+I built this interactive browser model to explore a restricted pure single-qubit state and computational-basis measurement.
 
 ## State model
 
